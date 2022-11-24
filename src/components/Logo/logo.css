@@ -1,0 +1,7 @@
+.logo {
+  font-size: 3em;
+}
+
+.logo::after {
+  content: "D";
+}
